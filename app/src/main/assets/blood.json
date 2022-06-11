@@ -1,0 +1,1402 @@
+[
+  {
+    "id": 5861,
+    "uid": "ce4c8387-12b6-48d6-be33-93b2f1326b7a",
+    "type": "A",
+    "rh_factor": "-",
+    "group": "B-"
+  },
+  {
+    "id": 6064,
+    "uid": "303857a9-0481-41bb-b9ca-8874d21d02bc",
+    "type": "AB",
+    "rh_factor": "+",
+    "group": "B+"
+  },
+  {
+    "id": 3532,
+    "uid": "6b96eea0-8ac4-40b2-8467-1e9afb7cb447",
+    "type": "O",
+    "rh_factor": "+",
+    "group": "AB-"
+  },
+  {
+    "id": 2217,
+    "uid": "8ca1608d-f639-490f-8d32-cb92c08d7454",
+    "type": "A",
+    "rh_factor": "+",
+    "group": "B-"
+  },
+  {
+    "id": 8108,
+    "uid": "3938dcd1-d2eb-4e3a-ae47-541990771fe3",
+    "type": "O",
+    "rh_factor": "-",
+    "group": "AB+"
+  },
+  {
+    "id": 4170,
+    "uid": "0e93ad56-329d-4e9e-8f43-ad84c2c04661",
+    "type": "B",
+    "rh_factor": "-",
+    "group": "O-"
+  },
+  {
+    "id": 3484,
+    "uid": "934bd89e-b562-4259-ae33-9d3300548de9",
+    "type": "AB",
+    "rh_factor": "+",
+    "group": "AB-"
+  },
+  {
+    "id": 3408,
+    "uid": "097bc71c-cba4-4609-a5da-235f9fbf7c8d",
+    "type": "B",
+    "rh_factor": "+",
+    "group": "O-"
+  },
+  {
+    "id": 2115,
+    "uid": "93d52f75-887c-49e1-9854-b96d24e78691",
+    "type": "A",
+    "rh_factor": "+",
+    "group": "O-"
+  },
+  {
+    "id": 4615,
+    "uid": "a6a3e261-9d4b-4eae-a3b3-c01d92660e03",
+    "type": "B",
+    "rh_factor": "+",
+    "group": "A-"
+  },
+  {
+    "id": 2508,
+    "uid": "3953e644-f27e-4b8e-bb8f-16647e327702",
+    "type": "B",
+    "rh_factor": "-",
+    "group": "O-"
+  },
+  {
+    "id": 1572,
+    "uid": "9ac91ad9-4fbe-4790-aaad-f03fea51c6b0",
+    "type": "O",
+    "rh_factor": "-",
+    "group": "AB-"
+  },
+  {
+    "id": 4784,
+    "uid": "bfeee388-93c3-434e-9d51-156c8398675d",
+    "type": "A",
+    "rh_factor": "+",
+    "group": "O+"
+  },
+  {
+    "id": 6709,
+    "uid": "fb5c9998-24ba-47fb-994b-896ccac14b4f",
+    "type": "AB",
+    "rh_factor": "-",
+    "group": "A+"
+  },
+  {
+    "id": 2345,
+    "uid": "5b9c873b-1642-4094-8f2c-6a456a8f093c",
+    "type": "O",
+    "rh_factor": "+",
+    "group": "A+"
+  },
+  {
+    "id": 1358,
+    "uid": "d2ff3fa2-aa42-4716-b8af-c16a3f3e0dd2",
+    "type": "B",
+    "rh_factor": "+",
+    "group": "AB-"
+  },
+  {
+    "id": 5838,
+    "uid": "44ce6d0f-3a6b-4da0-861c-47a1358730de",
+    "type": "O",
+    "rh_factor": "+",
+    "group": "A-"
+  },
+  {
+    "id": 9476,
+    "uid": "cb466f33-b607-478f-8c0f-1346384c022c",
+    "type": "A",
+    "rh_factor": "+",
+    "group": "A+"
+  },
+  {
+    "id": 2309,
+    "uid": "8f8b44c5-e5e3-4de8-a30e-f692ad301779",
+    "type": "O",
+    "rh_factor": "-",
+    "group": "AB-"
+  },
+  {
+    "id": 4602,
+    "uid": "7e91a3a1-f68c-4e9a-8189-2ae6b0312fcf",
+    "type": "AB",
+    "rh_factor": "-",
+    "group": "B-"
+  },
+  {
+    "id": 3623,
+    "uid": "428fbcb2-0052-465e-8859-d36a86072541",
+    "type": "O",
+    "rh_factor": "-",
+    "group": "A-"
+  },
+  {
+    "id": 4914,
+    "uid": "08d68b2b-7879-48cc-9958-fb916c6ef1ff",
+    "type": "AB",
+    "rh_factor": "-",
+    "group": "A+"
+  },
+  {
+    "id": 221,
+    "uid": "b85ee568-d6eb-4b9a-92c1-2c4c83f9c9dd",
+    "type": "O",
+    "rh_factor": "-",
+    "group": "AB+"
+  },
+  {
+    "id": 8620,
+    "uid": "093d6df1-657b-422e-9baa-1d7747a82c29",
+    "type": "O",
+    "rh_factor": "-",
+    "group": "A+"
+  },
+  {
+    "id": 1810,
+    "uid": "2c113c57-2707-4d0d-baaa-1cafbd94ee3d",
+    "type": "A",
+    "rh_factor": "-",
+    "group": "A-"
+  },
+  {
+    "id": 1456,
+    "uid": "c4b35ce1-83f6-45d5-87b2-a33b92ca9028",
+    "type": "A",
+    "rh_factor": "-",
+    "group": "A+"
+  },
+  {
+    "id": 1805,
+    "uid": "e8b8620c-3b7c-4afa-b8d0-b796bc6aea38",
+    "type": "B",
+    "rh_factor": "-",
+    "group": "B+"
+  },
+  {
+    "id": 5789,
+    "uid": "bb39641d-7759-4804-b601-8ca1b1c9097b",
+    "type": "B",
+    "rh_factor": "+",
+    "group": "O+"
+  },
+  {
+    "id": 7563,
+    "uid": "8af9b307-e4d9-45f0-95d9-3ad22e285993",
+    "type": "A",
+    "rh_factor": "-",
+    "group": "B+"
+  },
+  {
+    "id": 1021,
+    "uid": "aafffe85-f8b9-40a3-ab37-e42c5e64692c",
+    "type": "A",
+    "rh_factor": "+",
+    "group": "B+"
+  },
+  {
+    "id": 5993,
+    "uid": "22cf2faf-6d0c-4770-9a0a-8a372a697270",
+    "type": "O",
+    "rh_factor": "+",
+    "group": "B-"
+  },
+  {
+    "id": 5886,
+    "uid": "3fc381bf-d6ff-44ad-ab2a-31eb2e439452",
+    "type": "B",
+    "rh_factor": "-",
+    "group": "AB-"
+  },
+  {
+    "id": 6798,
+    "uid": "9302cd92-8d9b-4f99-af42-c3f20902d7d7",
+    "type": "B",
+    "rh_factor": "-",
+    "group": "A+"
+  },
+  {
+    "id": 7657,
+    "uid": "734f32ae-5096-490f-a8df-800f8a3f6cd7",
+    "type": "O",
+    "rh_factor": "-",
+    "group": "B-"
+  },
+  {
+    "id": 2918,
+    "uid": "77adc810-f496-4e3b-bce9-37623e10353b",
+    "type": "B",
+    "rh_factor": "-",
+    "group": "A-"
+  },
+  {
+    "id": 8979,
+    "uid": "04ef90e7-b5ef-4c1c-8e81-86c7f7d7aec4",
+    "type": "A",
+    "rh_factor": "-",
+    "group": "B-"
+  },
+  {
+    "id": 8072,
+    "uid": "2da4b5f8-be90-4e76-aa1d-1a831160ae64",
+    "type": "B",
+    "rh_factor": "-",
+    "group": "AB+"
+  },
+  {
+    "id": 7023,
+    "uid": "98d62a0c-e288-4961-a327-103a4357ea3a",
+    "type": "A",
+    "rh_factor": "+",
+    "group": "AB+"
+  },
+  {
+    "id": 7915,
+    "uid": "8a733698-2b83-406a-bb27-d7be42418456",
+    "type": "O",
+    "rh_factor": "+",
+    "group": "O-"
+  },
+  {
+    "id": 4522,
+    "uid": "d925ac88-0d6a-4666-baba-ca98d04c4292",
+    "type": "AB",
+    "rh_factor": "+",
+    "group": "A-"
+  },
+  {
+    "id": 9345,
+    "uid": "6320743d-7046-4614-b5d9-974214d4dacd",
+    "type": "B",
+    "rh_factor": "+",
+    "group": "AB+"
+  },
+  {
+    "id": 6878,
+    "uid": "e9aa8836-f043-4262-b4ca-803117bbee7b",
+    "type": "AB",
+    "rh_factor": "+",
+    "group": "AB-"
+  },
+  {
+    "id": 1656,
+    "uid": "cc4e9f49-336c-40ba-828d-4b89721512d5",
+    "type": "AB",
+    "rh_factor": "-",
+    "group": "O-"
+  },
+  {
+    "id": 1045,
+    "uid": "19bfce75-86e9-455f-bf15-6ab10122120f",
+    "type": "O",
+    "rh_factor": "+",
+    "group": "A+"
+  },
+  {
+    "id": 5457,
+    "uid": "494cd7bd-31c0-4bea-97d3-8082a28bf815",
+    "type": "AB",
+    "rh_factor": "-",
+    "group": "AB-"
+  },
+  {
+    "id": 1536,
+    "uid": "a6e6ceb8-c4b5-4a6c-ab31-7c103b58941b",
+    "type": "AB",
+    "rh_factor": "-",
+    "group": "B+"
+  },
+  {
+    "id": 2015,
+    "uid": "a1ac7eb8-13b3-49a2-9070-3e69390cd5d5",
+    "type": "AB",
+    "rh_factor": "-",
+    "group": "A-"
+  },
+  {
+    "id": 6757,
+    "uid": "7c4e8d44-4210-4985-b928-6e917c6138df",
+    "type": "A",
+    "rh_factor": "-",
+    "group": "O+"
+  },
+  {
+    "id": 374,
+    "uid": "a19fd418-91b4-4c91-8c28-691bb857c54f",
+    "type": "B",
+    "rh_factor": "-",
+    "group": "A+"
+  },
+  {
+    "id": 2218,
+    "uid": "1eafbdc4-516e-44bf-9735-b7c346e3dffa",
+    "type": "AB",
+    "rh_factor": "-",
+    "group": "AB+"
+  },
+  {
+    "id": 4760,
+    "uid": "cae1817a-a961-4a20-be0e-19fccf46babe",
+    "type": "AB",
+    "rh_factor": "+",
+    "group": "B-"
+  },
+  {
+    "id": 6732,
+    "uid": "7304a0bf-acce-403d-bf6d-0e61cad5c38e",
+    "type": "AB",
+    "rh_factor": "+",
+    "group": "B-"
+  },
+  {
+    "id": 4551,
+    "uid": "611e7bd9-cd98-40e1-8be9-f368ad2ce336",
+    "type": "B",
+    "rh_factor": "-",
+    "group": "A-"
+  },
+  {
+    "id": 4569,
+    "uid": "9ef81e82-3dd5-4920-b5d5-d1ed8a1a8651",
+    "type": "AB",
+    "rh_factor": "+",
+    "group": "B-"
+  },
+  {
+    "id": 7392,
+    "uid": "37851c0e-1bb4-4eb9-9836-81882f4a91b4",
+    "type": "O",
+    "rh_factor": "-",
+    "group": "O-"
+  },
+  {
+    "id": 7143,
+    "uid": "2e804d58-5536-4294-b92c-3e4ae28a701a",
+    "type": "O",
+    "rh_factor": "-",
+    "group": "O-"
+  },
+  {
+    "id": 6809,
+    "uid": "3fa971c0-24cf-4897-a8e4-c789cff04f95",
+    "type": "B",
+    "rh_factor": "-",
+    "group": "A+"
+  },
+  {
+    "id": 2951,
+    "uid": "d4226660-ad27-443f-bf53-4b9ee0b3e51a",
+    "type": "B",
+    "rh_factor": "+",
+    "group": "B-"
+  },
+  {
+    "id": 7722,
+    "uid": "c2b854f2-6f72-4e57-b566-2cfdf6dfcd2a",
+    "type": "A",
+    "rh_factor": "+",
+    "group": "A-"
+  },
+  {
+    "id": 118,
+    "uid": "912a887e-52aa-493b-8989-c377d4cbee74",
+    "type": "B",
+    "rh_factor": "+",
+    "group": "B+"
+  },
+  {
+    "id": 2087,
+    "uid": "1ab25156-d8e0-4261-a7ef-88f9d21131d6",
+    "type": "B",
+    "rh_factor": "-",
+    "group": "A-"
+  },
+  {
+    "id": 235,
+    "uid": "fe8484cd-e41b-489e-bba3-0b9e798924a5",
+    "type": "A",
+    "rh_factor": "-",
+    "group": "B-"
+  },
+  {
+    "id": 6537,
+    "uid": "5fcf41b1-a209-4a4e-bb24-52c3fd10c8d6",
+    "type": "AB",
+    "rh_factor": "-",
+    "group": "O+"
+  },
+  {
+    "id": 20,
+    "uid": "cdd755d8-7463-4d5b-9239-eaff6faa76b4",
+    "type": "O",
+    "rh_factor": "+",
+    "group": "AB+"
+  },
+  {
+    "id": 9644,
+    "uid": "87b8bbba-5c22-4baa-884c-7e4cf7f9180a",
+    "type": "A",
+    "rh_factor": "+",
+    "group": "AB+"
+  },
+  {
+    "id": 5866,
+    "uid": "8d3f5cb2-76eb-45a5-ae03-d97123be1172",
+    "type": "B",
+    "rh_factor": "+",
+    "group": "O+"
+  },
+  {
+    "id": 9690,
+    "uid": "2578e754-bf4c-4497-8c77-0ab745a02bf0",
+    "type": "O",
+    "rh_factor": "-",
+    "group": "A-"
+  },
+  {
+    "id": 4576,
+    "uid": "bd8ccaba-a1ad-4032-b4be-762ea73e269d",
+    "type": "A",
+    "rh_factor": "-",
+    "group": "AB+"
+  },
+  {
+    "id": 1166,
+    "uid": "9c14137a-1105-4d38-a673-9ee0cecf818c",
+    "type": "B",
+    "rh_factor": "-",
+    "group": "A+"
+  },
+  {
+    "id": 8606,
+    "uid": "ade9dd63-593c-48a3-a002-f3c6c33ce1bb",
+    "type": "O",
+    "rh_factor": "-",
+    "group": "O-"
+  },
+  {
+    "id": 3619,
+    "uid": "7b249ecc-407a-465f-8ede-23d2834018bc",
+    "type": "O",
+    "rh_factor": "+",
+    "group": "B+"
+  },
+  {
+    "id": 5576,
+    "uid": "9d88304e-d026-4b31-b498-34432bf99f29",
+    "type": "O",
+    "rh_factor": "+",
+    "group": "O-"
+  },
+  {
+    "id": 8876,
+    "uid": "3fd754e8-c2b6-43f2-a8be-afdf54a07743",
+    "type": "A",
+    "rh_factor": "-",
+    "group": "A-"
+  },
+  {
+    "id": 1893,
+    "uid": "f0afe76e-a682-47c6-9d99-9b1225c4e8c0",
+    "type": "A",
+    "rh_factor": "-",
+    "group": "AB+"
+  },
+  {
+    "id": 7316,
+    "uid": "83aa5d85-2f40-48ff-8a0c-49c723a1c281",
+    "type": "AB",
+    "rh_factor": "-",
+    "group": "A-"
+  },
+  {
+    "id": 6767,
+    "uid": "204a298f-4fa0-47fb-bc8f-a1c580917145",
+    "type": "A",
+    "rh_factor": "+",
+    "group": "B+"
+  },
+  {
+    "id": 2131,
+    "uid": "1955d439-0b97-4535-ab8a-0b54088482b9",
+    "type": "AB",
+    "rh_factor": "-",
+    "group": "A+"
+  },
+  {
+    "id": 8232,
+    "uid": "6458c50d-d3bf-4667-905b-0fd1da37cf72",
+    "type": "O",
+    "rh_factor": "+",
+    "group": "B-"
+  },
+  {
+    "id": 5162,
+    "uid": "b160ad0e-5beb-47f9-8952-3967e30ee12e",
+    "type": "AB",
+    "rh_factor": "+",
+    "group": "AB-"
+  },
+  {
+    "id": 4904,
+    "uid": "3809748e-1f2f-44f3-ac74-f4edd1091b94",
+    "type": "AB",
+    "rh_factor": "+",
+    "group": "AB-"
+  },
+  {
+    "id": 2740,
+    "uid": "ce55b584-9f35-4cbf-bcec-adeb2074191d",
+    "type": "O",
+    "rh_factor": "-",
+    "group": "AB-"
+  },
+  {
+    "id": 2465,
+    "uid": "42a0b337-1354-4efd-9dda-56d09ed2d9df",
+    "type": "AB",
+    "rh_factor": "-",
+    "group": "O+"
+  },
+  {
+    "id": 6733,
+    "uid": "a912277b-f6e5-453c-afae-ab5acfa2e5e6",
+    "type": "AB",
+    "rh_factor": "-",
+    "group": "O+"
+  },
+  {
+    "id": 1725,
+    "uid": "30ae0403-69ce-4b61-ab57-54a5b594eaf2",
+    "type": "A",
+    "rh_factor": "-",
+    "group": "B+"
+  },
+  {
+    "id": 3885,
+    "uid": "d4f7f95e-4f07-4503-9853-671d46c3a8e1",
+    "type": "B",
+    "rh_factor": "-",
+    "group": "O-"
+  },
+  {
+    "id": 1897,
+    "uid": "3b03cc71-cd9a-46c4-9bad-31f17dc6b4a8",
+    "type": "O",
+    "rh_factor": "-",
+    "group": "B-"
+  },
+  {
+    "id": 4805,
+    "uid": "25480330-6080-4502-a321-23089efcc50b",
+    "type": "O",
+    "rh_factor": "+",
+    "group": "O-"
+  },
+  {
+    "id": 6379,
+    "uid": "5ddee7ef-fa25-4a7e-a864-422cb65c0eac",
+    "type": "AB",
+    "rh_factor": "+",
+    "group": "B-"
+  },
+  {
+    "id": 5705,
+    "uid": "61ccec4d-1985-46a2-8d70-ba60ea609d63",
+    "type": "O",
+    "rh_factor": "+",
+    "group": "O+"
+  },
+  {
+    "id": 4944,
+    "uid": "694cf0af-37a3-495b-b37b-5f46ddb4766b",
+    "type": "O",
+    "rh_factor": "-",
+    "group": "A-"
+  },
+  {
+    "id": 1053,
+    "uid": "77ef75e7-3af8-4ee3-853e-f959a1612c3b",
+    "type": "A",
+    "rh_factor": "+",
+    "group": "AB-"
+  },
+  {
+    "id": 943,
+    "uid": "baabfc7a-45cc-42fe-8aa5-562ec442828f",
+    "type": "O",
+    "rh_factor": "-",
+    "group": "A+"
+  },
+  {
+    "id": 2790,
+    "uid": "589a1037-a65a-4de3-b4a8-7a7d387e4058",
+    "type": "O",
+    "rh_factor": "+",
+    "group": "O-"
+  },
+  {
+    "id": 7655,
+    "uid": "6c19b080-63c6-4372-9b1c-460a7cb5648c",
+    "type": "AB",
+    "rh_factor": "+",
+    "group": "AB-"
+  },
+  {
+    "id": 6329,
+    "uid": "a523638c-b721-4852-9ee7-358af3611b7a",
+    "type": "AB",
+    "rh_factor": "+",
+    "group": "AB-"
+  },
+  {
+    "id": 2035,
+    "uid": "a1fa71b1-ddf2-4fcb-9b8f-a60ab69072cf",
+    "type": "B",
+    "rh_factor": "+",
+    "group": "A-"
+  },
+  {
+    "id": 9475,
+    "uid": "1a189a4b-fbf4-41d9-84a8-f54a5eb8e0b4",
+    "type": "AB",
+    "rh_factor": "+",
+    "group": "A-"
+  },
+  {
+    "id": 2516,
+    "uid": "2c763958-1f13-45a8-920b-dd0171baab5a",
+    "type": "B",
+    "rh_factor": "+",
+    "group": "B+"
+  },
+  {
+    "id": 1710,
+    "uid": "75f20a37-b294-46c3-9825-fdd0f2091bad",
+    "type": "AB",
+    "rh_factor": "-",
+    "group": "A-"
+  },
+  {
+    "id": 3902,
+    "uid": "ad9aa1e6-27f9-466f-aa17-32e0ef2037c8",
+    "type": "O",
+    "rh_factor": "+",
+    "group": "B-"
+  },
+  {
+    "id": 1498,
+    "uid": "fd4e4f5c-3866-4970-93ad-15d4a9d23d36",
+    "type": "B",
+    "rh_factor": "-",
+    "group": "B+"
+  },
+  {
+    "id": 6750,
+    "uid": "15e5e340-5a7c-441d-89c2-9fad725a3f5e",
+    "type": "B",
+    "rh_factor": "+",
+    "group": "B-"
+  },
+  {
+    "id": 1173,
+    "uid": "488324ae-301a-4040-96c8-d4e75915d9f5",
+    "type": "B",
+    "rh_factor": "+",
+    "group": "O+"
+  },
+  {
+    "id": 3223,
+    "uid": "87a74349-7c33-44d7-8490-5615cb69e1de",
+    "type": "O",
+    "rh_factor": "+",
+    "group": "AB+"
+  },
+  {
+    "id": 1241,
+    "uid": "800ca630-730f-4453-85e3-9b720145846d",
+    "type": "O",
+    "rh_factor": "-",
+    "group": "O+"
+  },
+  {
+    "id": 6289,
+    "uid": "f778d865-45f7-4c2a-b937-9043333432b1",
+    "type": "B",
+    "rh_factor": "+",
+    "group": "B-"
+  },
+  {
+    "id": 8934,
+    "uid": "002723d6-650d-4ff4-b844-5359aca3cf00",
+    "type": "AB",
+    "rh_factor": "-",
+    "group": "A-"
+  },
+  {
+    "id": 5192,
+    "uid": "b6675198-33fa-4cb3-85d4-f2937ac29095",
+    "type": "O",
+    "rh_factor": "-",
+    "group": "O-"
+  },
+  {
+    "id": 485,
+    "uid": "f89ab48d-5185-458f-a93e-12b070589806",
+    "type": "AB",
+    "rh_factor": "+",
+    "group": "A+"
+  },
+  {
+    "id": 8510,
+    "uid": "cde97aa1-edf5-401d-8b4f-677c07345761",
+    "type": "A",
+    "rh_factor": "-",
+    "group": "O-"
+  },
+  {
+    "id": 367,
+    "uid": "16389964-14e5-4520-86f0-eb2ff7fdca43",
+    "type": "B",
+    "rh_factor": "-",
+    "group": "B+"
+  },
+  {
+    "id": 2307,
+    "uid": "cb03b40b-b426-4db6-92e7-424584d7fdb1",
+    "type": "AB",
+    "rh_factor": "+",
+    "group": "O+"
+  },
+  {
+    "id": 335,
+    "uid": "7435009d-22cc-41d7-a5ac-c8e91b3cc508",
+    "type": "AB",
+    "rh_factor": "+",
+    "group": "AB+"
+  },
+  {
+    "id": 1151,
+    "uid": "fd06bd3e-3245-4091-8b02-a2abb0632238",
+    "type": "A",
+    "rh_factor": "-",
+    "group": "O+"
+  },
+  {
+    "id": 1793,
+    "uid": "40fdfee8-b3ab-454b-b119-e4688d8d683c",
+    "type": "B",
+    "rh_factor": "-",
+    "group": "AB+"
+  },
+  {
+    "id": 6343,
+    "uid": "77a1de9d-139e-4ddc-8b53-1a16a755e17d",
+    "type": "O",
+    "rh_factor": "+",
+    "group": "A-"
+  },
+  {
+    "id": 3343,
+    "uid": "5a78d738-f5bd-41a5-bbcf-582e0bb43753",
+    "type": "A",
+    "rh_factor": "-",
+    "group": "B+"
+  },
+  {
+    "id": 8109,
+    "uid": "7e1346af-28ee-4e28-a9bc-b025ce079cf1",
+    "type": "A",
+    "rh_factor": "+",
+    "group": "O+"
+  },
+  {
+    "id": 8094,
+    "uid": "d00603b9-b1c7-4cab-b705-536ec6fbc99f",
+    "type": "A",
+    "rh_factor": "-",
+    "group": "O+"
+  },
+  {
+    "id": 1456,
+    "uid": "e441a356-6913-4539-8fe2-51c47e79e79f",
+    "type": "A",
+    "rh_factor": "-",
+    "group": "A+"
+  },
+  {
+    "id": 3682,
+    "uid": "3ad51eb6-2e24-483c-a658-05b18f0500eb",
+    "type": "O",
+    "rh_factor": "+",
+    "group": "B+"
+  },
+  {
+    "id": 3442,
+    "uid": "8882ee5c-43b5-4f9e-82a3-7832bbe81081",
+    "type": "AB",
+    "rh_factor": "-",
+    "group": "B-"
+  },
+  {
+    "id": 9405,
+    "uid": "2daeba4b-4f9a-44d2-8dc2-5d8822eed504",
+    "type": "B",
+    "rh_factor": "-",
+    "group": "AB-"
+  },
+  {
+    "id": 4175,
+    "uid": "81545f6b-d27a-48f3-899c-ce426c8febd5",
+    "type": "A",
+    "rh_factor": "+",
+    "group": "A+"
+  },
+  {
+    "id": 811,
+    "uid": "fe101de0-5e10-4fd0-829f-d18a33fc92a7",
+    "type": "AB",
+    "rh_factor": "+",
+    "group": "O+"
+  },
+  {
+    "id": 452,
+    "uid": "4a5a5ac3-f725-4fca-84a3-5929d4002ece",
+    "type": "A",
+    "rh_factor": "+",
+    "group": "AB-"
+  },
+  {
+    "id": 16,
+    "uid": "32d955c9-f1e4-4cbb-966a-ff0f5b35b39a",
+    "type": "O",
+    "rh_factor": "+",
+    "group": "O-"
+  },
+  {
+    "id": 1590,
+    "uid": "8f7796c6-60e3-4bc0-ad0b-b5bcecef2fda",
+    "type": "O",
+    "rh_factor": "+",
+    "group": "O+"
+  },
+  {
+    "id": 2341,
+    "uid": "709dc6ed-295c-43d1-a32f-c8f6a1bb7e83",
+    "type": "O",
+    "rh_factor": "-",
+    "group": "AB-"
+  },
+  {
+    "id": 5697,
+    "uid": "c55e770f-a5ba-4452-a2e2-922f37ba8996",
+    "type": "A",
+    "rh_factor": "+",
+    "group": "A+"
+  },
+  {
+    "id": 7773,
+    "uid": "614dbf19-3222-4bca-86e9-89c64d91bcdc",
+    "type": "B",
+    "rh_factor": "-",
+    "group": "A+"
+  },
+  {
+    "id": 9946,
+    "uid": "ca85df23-e8c3-45d8-a8fa-7c84f44be45c",
+    "type": "AB",
+    "rh_factor": "+",
+    "group": "O+"
+  },
+  {
+    "id": 5899,
+    "uid": "79db0923-04fe-45ef-9527-16111fcc0846",
+    "type": "AB",
+    "rh_factor": "+",
+    "group": "B+"
+  },
+  {
+    "id": 7414,
+    "uid": "4a469dcc-3ce2-43d7-aaa5-31378fd54334",
+    "type": "A",
+    "rh_factor": "+",
+    "group": "O-"
+  },
+  {
+    "id": 5368,
+    "uid": "cfbd342a-72e5-41f2-83b8-1dcc7f0bb844",
+    "type": "AB",
+    "rh_factor": "+",
+    "group": "O+"
+  },
+  {
+    "id": 5908,
+    "uid": "cce90796-0004-4d5a-839b-eeaa96279563",
+    "type": "B",
+    "rh_factor": "+",
+    "group": "B-"
+  },
+  {
+    "id": 8959,
+    "uid": "fd781ab5-8b3d-4bb1-a290-d5eaf8a26f04",
+    "type": "A",
+    "rh_factor": "-",
+    "group": "O+"
+  },
+  {
+    "id": 8308,
+    "uid": "5bd9176c-ef9d-46bc-9d9c-233364d7f874",
+    "type": "O",
+    "rh_factor": "+",
+    "group": "AB-"
+  },
+  {
+    "id": 8173,
+    "uid": "38e22efb-de82-4140-8613-4de83d4708f7",
+    "type": "O",
+    "rh_factor": "-",
+    "group": "B+"
+  },
+  {
+    "id": 4298,
+    "uid": "b2861212-976b-4c4c-b8b4-3dae04625ac7",
+    "type": "AB",
+    "rh_factor": "+",
+    "group": "AB-"
+  },
+  {
+    "id": 4563,
+    "uid": "d19b7017-7f47-4dda-90fb-02b964a5881e",
+    "type": "AB",
+    "rh_factor": "-",
+    "group": "AB-"
+  },
+  {
+    "id": 3607,
+    "uid": "b9c95182-1e72-4746-9542-fcade99cc63f",
+    "type": "O",
+    "rh_factor": "+",
+    "group": "A-"
+  },
+  {
+    "id": 9683,
+    "uid": "351b7cf0-4866-476a-a4b9-ad4584504a51",
+    "type": "B",
+    "rh_factor": "+",
+    "group": "AB+"
+  },
+  {
+    "id": 1401,
+    "uid": "9c98bb2e-ef7d-4505-ba2a-9b22048ff2b3",
+    "type": "B",
+    "rh_factor": "-",
+    "group": "O-"
+  },
+  {
+    "id": 3830,
+    "uid": "66d66698-1126-4fd8-ba86-487bd9cf2d6e",
+    "type": "A",
+    "rh_factor": "-",
+    "group": "B+"
+  },
+  {
+    "id": 8056,
+    "uid": "7cd64f13-0071-4352-bcf4-3037d59d90ac",
+    "type": "AB",
+    "rh_factor": "+",
+    "group": "AB+"
+  },
+  {
+    "id": 5411,
+    "uid": "1a7a8550-1f88-47a4-9917-043cb0577d1f",
+    "type": "A",
+    "rh_factor": "-",
+    "group": "B+"
+  },
+  {
+    "id": 635,
+    "uid": "abb21642-0b03-4eb1-9eec-8d402cbabe2f",
+    "type": "B",
+    "rh_factor": "-",
+    "group": "B-"
+  },
+  {
+    "id": 4989,
+    "uid": "502ca127-22d4-4e64-ae5a-f85f3c2c9b26",
+    "type": "O",
+    "rh_factor": "-",
+    "group": "AB+"
+  },
+  {
+    "id": 8286,
+    "uid": "0cc6fee9-e815-4765-aa9c-610d7f983688",
+    "type": "O",
+    "rh_factor": "+",
+    "group": "AB+"
+  },
+  {
+    "id": 3578,
+    "uid": "775d0e6e-c1e5-4178-8817-56075fbe982c",
+    "type": "O",
+    "rh_factor": "-",
+    "group": "B+"
+  },
+  {
+    "id": 6211,
+    "uid": "89d2f629-d012-4d8f-a26d-9f9d93cfa38a",
+    "type": "AB",
+    "rh_factor": "-",
+    "group": "AB-"
+  },
+  {
+    "id": 3999,
+    "uid": "14071af3-b5e0-476e-9b00-05da28d9e640",
+    "type": "A",
+    "rh_factor": "-",
+    "group": "AB+"
+  },
+  {
+    "id": 4231,
+    "uid": "880c5bfc-ea4e-4bd4-ad10-37d0336b0bc6",
+    "type": "A",
+    "rh_factor": "-",
+    "group": "O+"
+  },
+  {
+    "id": 8750,
+    "uid": "2934e90a-b88b-4df8-9525-78e8c11f8c1b",
+    "type": "A",
+    "rh_factor": "-",
+    "group": "AB-"
+  },
+  {
+    "id": 1214,
+    "uid": "285578aa-0986-41b6-a61c-6d6b72c1b3a9",
+    "type": "A",
+    "rh_factor": "+",
+    "group": "B-"
+  },
+  {
+    "id": 7039,
+    "uid": "80860827-8c6a-4f38-bada-9fcd2a7af70a",
+    "type": "A",
+    "rh_factor": "+",
+    "group": "O-"
+  },
+  {
+    "id": 7896,
+    "uid": "d913d5b3-a038-4dc0-a4eb-1cb71793aa3d",
+    "type": "B",
+    "rh_factor": "-",
+    "group": "AB+"
+  },
+  {
+    "id": 497,
+    "uid": "1918f543-7a3e-46d1-86e9-f2fb0583fef7",
+    "type": "O",
+    "rh_factor": "+",
+    "group": "A-"
+  },
+  {
+    "id": 3206,
+    "uid": "abbc0037-9f53-4a0b-bdc5-020b8f75946f",
+    "type": "B",
+    "rh_factor": "-",
+    "group": "O+"
+  },
+  {
+    "id": 3846,
+    "uid": "cc2c4a6f-ccee-4ae6-8eb8-54fb24ccceb0",
+    "type": "A",
+    "rh_factor": "-",
+    "group": "O-"
+  },
+  {
+    "id": 4915,
+    "uid": "cd19fcfb-23d5-414b-9d7a-2753e3faf797",
+    "type": "O",
+    "rh_factor": "+",
+    "group": "B+"
+  },
+  {
+    "id": 993,
+    "uid": "9f6c6030-684c-417c-a0c9-44aa3b47764c",
+    "type": "AB",
+    "rh_factor": "+",
+    "group": "O-"
+  },
+  {
+    "id": 5456,
+    "uid": "09ffc2d1-a389-45fc-ad7c-5ca0a7837e25",
+    "type": "A",
+    "rh_factor": "-",
+    "group": "B-"
+  },
+  {
+    "id": 7637,
+    "uid": "30473945-add7-4c85-b98e-3194442a642c",
+    "type": "A",
+    "rh_factor": "-",
+    "group": "O+"
+  },
+  {
+    "id": 5738,
+    "uid": "45a32b3b-54ef-41da-8209-cc925c82118f",
+    "type": "B",
+    "rh_factor": "-",
+    "group": "O+"
+  },
+  {
+    "id": 5416,
+    "uid": "f6c9ff26-d464-4929-91f6-148e14eda234",
+    "type": "A",
+    "rh_factor": "+",
+    "group": "AB-"
+  },
+  {
+    "id": 9533,
+    "uid": "fb215b92-3ad8-44aa-80f4-2a666dbad235",
+    "type": "B",
+    "rh_factor": "+",
+    "group": "A-"
+  },
+  {
+    "id": 7485,
+    "uid": "f6480739-7e18-47e1-9b17-f1f7f6bc431f",
+    "type": "O",
+    "rh_factor": "+",
+    "group": "AB+"
+  },
+  {
+    "id": 8304,
+    "uid": "e2aaad30-626d-4972-81e9-9aba5cf390bc",
+    "type": "O",
+    "rh_factor": "+",
+    "group": "A+"
+  },
+  {
+    "id": 3513,
+    "uid": "05aeec25-d867-48f4-9c89-43c8678c74b7",
+    "type": "O",
+    "rh_factor": "+",
+    "group": "B-"
+  },
+  {
+    "id": 7056,
+    "uid": "dacc1da7-28c5-4d2a-8ada-363bbe1dc2da",
+    "type": "AB",
+    "rh_factor": "-",
+    "group": "A+"
+  },
+  {
+    "id": 8134,
+    "uid": "4cbe4b2a-fec7-499c-80d3-b908fcaf1824",
+    "type": "O",
+    "rh_factor": "-",
+    "group": "O+"
+  },
+  {
+    "id": 4463,
+    "uid": "3634f61c-dc44-47c9-b9f8-073465842d25",
+    "type": "B",
+    "rh_factor": "+",
+    "group": "O+"
+  },
+  {
+    "id": 9100,
+    "uid": "8e777899-b178-4ff3-b314-51e7655553d4",
+    "type": "A",
+    "rh_factor": "+",
+    "group": "O+"
+  },
+  {
+    "id": 6582,
+    "uid": "a9020719-7215-4f68-8aa8-0b6888c83242",
+    "type": "AB",
+    "rh_factor": "+",
+    "group": "O+"
+  },
+  {
+    "id": 4382,
+    "uid": "ec07bc8d-d9fc-4b85-b59f-c9944066a4c0",
+    "type": "O",
+    "rh_factor": "-",
+    "group": "O+"
+  },
+  {
+    "id": 8177,
+    "uid": "b366ec65-70a5-4dfc-a368-1c86ddc208c3",
+    "type": "AB",
+    "rh_factor": "-",
+    "group": "AB+"
+  },
+  {
+    "id": 852,
+    "uid": "3a7b7d34-756d-4da2-94d8-4aa627a449da",
+    "type": "B",
+    "rh_factor": "+",
+    "group": "A-"
+  },
+  {
+    "id": 88,
+    "uid": "cf5cec48-f396-4cf9-8047-30864ae59737",
+    "type": "O",
+    "rh_factor": "-",
+    "group": "A+"
+  },
+  {
+    "id": 1874,
+    "uid": "fe40eb4d-a94f-40d9-8387-40ed20d45927",
+    "type": "O",
+    "rh_factor": "-",
+    "group": "A-"
+  },
+  {
+    "id": 481,
+    "uid": "c02a24e1-b942-482e-a0ef-5ffdab53a7c2",
+    "type": "B",
+    "rh_factor": "-",
+    "group": "B+"
+  },
+  {
+    "id": 2134,
+    "uid": "1f0ee847-99da-411d-89d9-bb89f7fae58c",
+    "type": "B",
+    "rh_factor": "+",
+    "group": "AB+"
+  },
+  {
+    "id": 8603,
+    "uid": "79419878-3b21-4c21-86ef-0642b483f654",
+    "type": "O",
+    "rh_factor": "+",
+    "group": "O+"
+  },
+  {
+    "id": 3413,
+    "uid": "fa4423dd-eacb-4eec-a930-45be0c14de9f",
+    "type": "B",
+    "rh_factor": "-",
+    "group": "O-"
+  },
+  {
+    "id": 7728,
+    "uid": "e3483bd5-1483-45d1-b90e-d142b8ab820e",
+    "type": "O",
+    "rh_factor": "-",
+    "group": "B+"
+  },
+  {
+    "id": 5816,
+    "uid": "e7516205-e1cc-4926-8fe8-7d67c924a6ae",
+    "type": "O",
+    "rh_factor": "+",
+    "group": "B-"
+  },
+  {
+    "id": 7743,
+    "uid": "e65d4a3d-979c-49df-8c95-9e63713950ea",
+    "type": "AB",
+    "rh_factor": "-",
+    "group": "B-"
+  },
+  {
+    "id": 3416,
+    "uid": "1644efdc-9bca-4ffe-9b6e-14fad7a809f1",
+    "type": "B",
+    "rh_factor": "-",
+    "group": "B+"
+  },
+  {
+    "id": 3803,
+    "uid": "bc377919-8940-4bc1-aeec-89a6b059955f",
+    "type": "A",
+    "rh_factor": "+",
+    "group": "B+"
+  },
+  {
+    "id": 3824,
+    "uid": "ad4aa6f6-d6f0-4456-9704-d610e436cfc9",
+    "type": "AB",
+    "rh_factor": "-",
+    "group": "A+"
+  },
+  {
+    "id": 9146,
+    "uid": "8c8466cb-ac09-425d-a7f7-d5b659bb325f",
+    "type": "O",
+    "rh_factor": "+",
+    "group": "O+"
+  },
+  {
+    "id": 1441,
+    "uid": "19a786b0-0d1d-4a61-960b-de54098ce2b5",
+    "type": "B",
+    "rh_factor": "+",
+    "group": "O-"
+  },
+  {
+    "id": 7866,
+    "uid": "22a9c071-b2f0-4e3f-b4fd-e98402f1fc3b",
+    "type": "O",
+    "rh_factor": "-",
+    "group": "O-"
+  },
+  {
+    "id": 6782,
+    "uid": "f0834766-bda9-48a1-b858-5447e1cc5acb",
+    "type": "B",
+    "rh_factor": "-",
+    "group": "B-"
+  },
+  {
+    "id": 9715,
+    "uid": "2fdfe001-aab7-4e2a-8879-0f18816f00a7",
+    "type": "O",
+    "rh_factor": "-",
+    "group": "A+"
+  },
+  {
+    "id": 3412,
+    "uid": "e16a7eca-9992-4322-9cd4-3da7ca2e8942",
+    "type": "B",
+    "rh_factor": "-",
+    "group": "B+"
+  },
+  {
+    "id": 9440,
+    "uid": "e16c4a2d-2e49-403f-97d9-be0e0013c877",
+    "type": "B",
+    "rh_factor": "-",
+    "group": "A+"
+  },
+  {
+    "id": 3345,
+    "uid": "0c3275f5-843f-44dc-831c-d7167a55bd78",
+    "type": "A",
+    "rh_factor": "+",
+    "group": "AB-"
+  },
+  {
+    "id": 1561,
+    "uid": "a124325c-e56e-4957-b458-915711b595be",
+    "type": "B",
+    "rh_factor": "-",
+    "group": "O+"
+  }
+]
